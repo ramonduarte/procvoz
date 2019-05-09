@@ -92,7 +92,7 @@
 %	TITLE PAGE
 %----------------------------------------------------------------------------------------
 
-\title[Locutor]{Reconhecimento de Locutor} % The short title appears at the bottom of every slide, the full title is only on the title page
+\title[Identificação de Locutor]{Identificação de Locutor} % The short title appears at the bottom of every slide, the full title is only on the title page
 
 \author{Ramon Duarte de Melo \& André Ribeiro Queiroz} % Your name
 \institute[UFRJ] % Your institution as it will appear on the bottom of every slide, may be shorthand to save space
@@ -141,7 +141,7 @@
 
     \medskip
 
-    Este processamento é geralmente feito por parametrização, como o LPC (\emph{Linear Prediction Coding}):
+    Este processamento é geralmente feito por técnicas de parametrização, como o LPC (\emph{Linear Prediction Coding}):
 
     \bigskip
 
@@ -286,7 +286,11 @@
 \begin{frame} % SLIDE 3
     \frametitle{Modelagem}
 
-    Pelo MFC, são extraídos 40 coeficientes (chamados de MFCCs), que alimentam GMMs (\emph{modelos misturados de Gauss}).
+    Pelo MFC, são extraídos 40 coeficientes (chamados de MFCCs), que alimentam GMMs (\emph{modelos misturados de gaussianas}).
+
+    \medskip
+
+    20 destes coeficientes são estáticos (constantes) e 20 são dinâmicos (diferenciais entre os coeficientes estáticos.)
 
     \medskip
 
