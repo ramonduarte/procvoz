@@ -1,13 +1,13 @@
 \babel@toc {brazil}{}
 \babel@toc {brazil}{}
-\beamer@sectionintoc {1}{Introdu\IeC {\c c}\IeC {\~a}o}{3}{0}{1}
-\beamer@subsectionintoc {1}{1}{Defini\IeC {\c c}\IeC {\~o}es}{3}{0}{1}
-\beamer@sectionintoc {2}{O Problema}{4}{0}{2}
-\beamer@sectionintoc {3}{Problemas}{7}{0}{3}
-\beamer@subsectionintoc {3}{1}{Janelas de tempo}{7}{0}{3}
-\beamer@sectionintoc {4}{Limitando o CVRP}{9}{0}{4}
-\beamer@subsectionintoc {4}{1}{Dados de entrada}{9}{0}{4}
-\beamer@subsectionintoc {4}{2}{Dados de sa\IeC {\'\i }da}{11}{0}{4}
-\beamer@sectionintoc {5}{Implementa\IeC {\c c}\IeC {\~a}o}{13}{0}{5}
-\beamer@subsectionintoc {5}{1}{Algoritmos exatos}{13}{0}{5}
-\beamer@sectionintoc {6}{Refer\IeC {\^e}ncias bibliogr\IeC {\'a}ficas}{20}{0}{6}
+\beamer@sectionintoc {1}{O Problema}{3}{0}{1}
+\beamer@sectionintoc {2}{Pipeline}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Diagrama}{5}{0}{2}
+\beamer@subsectionintoc {2}{2}{Dados de entrada}{6}{0}{2}
+\beamer@subsectionintoc {2}{3}{Pr\IeC {\'e}-processamento}{8}{0}{2}
+\beamer@subsectionintoc {2}{4}{Treinamento}{12}{0}{2}
+\beamer@sectionintoc {3}{Implementa\IeC {\c c}\IeC {\~a}o}{15}{0}{3}
+\beamer@subsectionintoc {3}{1}{MFC}{15}{0}{3}
+\beamer@subsectionintoc {3}{2}{GMM}{16}{0}{3}
+\beamer@sectionintoc {4}{Conclus\IeC {\~a}o}{18}{0}{4}
+\beamer@subsectionintoc {4}{1}{Planejamento Futuro}{18}{0}{4}

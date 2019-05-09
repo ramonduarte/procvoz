@@ -1,20 +1,11 @@
-\frametitle{Algoritmo 2: Força bruta com \emph{branch-and-bound}}
+\frametitle{Módulos}
 
-    \begin{block}{se uma rota faz a solução ter distância maior que a encontrada por uma heurística, então ela não leverá a uma solução ótima:}
-    \begin{python}
-    if this_solution_distance > distance_upper_bound:
-        continue
-    \end{python}
-    \end{block}
+    Em tese, o número de componentes e o total de iterações não deveriam ser arbitrários, mas sim descoberto através do algoritmo k-médias.
 
-    \begin{block}{se a rota introduz uma solução que é pior que a melhor solução já encontrada pelo algoritmo, então ela não levará ao ótimo:}
-    \begin{python}
-    total_weight = sum(
-        [G.get_edge_data(x[0][i], x[0][i+1])["weight"]
-         for x in solution for i in range(len(x[0])-1)])
-    if total_weight > best_route[1]:
-        continue
-    \end{python}
-    \end{block}
+    Para este trabalho, no entanto, optamos por utilizar os valores padrão:
 
+    \begin{itemize}
+        \item $k = 8$: os dados sempre terão 8 agrupamentos (e 8 centroides).
+        \item 200 iterações: maioria dos exemplos utilizavam este valor.
+    \end{itemize}
 

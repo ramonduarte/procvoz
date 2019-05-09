@@ -24,32 +24,32 @@
 % of all the themes, uncomment each in turn to see what they look like.
 
 %\usetheme{default}
-%\usetheme{AnnArbor}
-%\usetheme{Antibes}
-%\usetheme{Bergen}
-%\usetheme{Berkeley}
-%\usetheme{Berlin}
-%\usetheme{Boadilla}
-%\usetheme{CambridgeUS}
-%\usetheme{Copenhagen}
-%\usetheme{Darmstadt}
-%\usetheme{Dresden}
-%\usetheme{Frankfurt}
-%\usetheme{Goettingen}
-%\usetheme{Hannover}
-%\usetheme{Ilmenau}
-%\usetheme{JuanLesPins}
-%\usetheme{Luebeck}
+% \usetheme{AnnArbor}
+% \usetheme{Antibes} +
+% \usetheme{Bergen}
+% \usetheme{Berkeley}
+% \usetheme{Berlin}
+% \usetheme{Boadilla}
+% \usetheme{CambridgeUS}
+% \usetheme{Copenhagen} +
+% \usetheme{Darmstadt}
+% \usetheme{Dresden}
+% \usetheme{Frankfurt}
+% \usetheme{Goettingen}
+% \usetheme{Hannover}
+% \usetheme{Ilmenau}
+% \usetheme{JuanLesPins}
+% \usetheme{Luebeck} +
 % \usetheme{Madrid}
-%\usetheme{Malmoe}
-%\usetheme{Marburg}
-%\usetheme{Montpellier}
-%\usetheme{PaloAlto}
-%\usetheme{Pittsburgh}
-%\usetheme{Rochester}
-%\usetheme{Singapore}
+\usetheme{Malmoe}
+% \usetheme{Marburg}
+% \usetheme{Montpellier} +
+% \usetheme{PaloAlto}
+% \usetheme{Pittsburgh}
+% \usetheme{Rochester}
+% \usetheme{Singapore}
 % \usetheme{Szeged}
-%\usetheme{Warsaw}
+% \usetheme{Warsaw} +
 
 % As well as themes, the Beamer class has a number of color themes
 % for any slide theme. Uncomment each of these in turn to see how it
@@ -99,7 +99,7 @@
 {
     Universidade Federal do Rio de Janeiro \\ % Your institution for the title page
     \medskip
-    \textit{ramonduarte@poli.ufrj.br \& handre_queiroz@poli.ufrj.br} % Your email address
+    \textit{ramonduarte@poli.ufrj.br \& handre\_queiroz@poli.ufrj.br} % Your email address
 }
 \date{\today} % Date, can be changed to a custom date
 
@@ -111,7 +111,7 @@
 
 \begin{frame} % SLIDE 2
     \frametitle{Sumário} % Table of contents slide, comment this block out to remove it
-    \tableofcontents % Throughout your presentation, if you choose to use \section{} and \subsection{} commands, these will automatically be printed on this slide as an overview of your presentation
+    \tableofcontents 
 \end{frame}
 
 %----------------------------------------------------------------------------------------
@@ -119,343 +119,323 @@
 %----------------------------------------------------------------------------------------
 
 %------------------------------------------------
-\section{Introdução} % Sections can be created in order to organize your presentation into discrete blocks, all sections and subsections are automatically printed in the table of contents as an overview of the talk
+\section{O Problema} 
 %------------------------------------------------
 
-\subsection{Definições} % A subsection can be created just before a set of slides with a common theme to further break down your presentation into chunks
-
 \begin{frame} % SLIDE 3
-    \frametitle{Glossário}
+    \frametitle{Objetivo}
     
-    \begin{block}{Recurso}
-        Abstração-chave de um pedaço coeso de informação. Dentro do contexto da disciplina de \emph{Bancos de Dados}, consideraremos como um subconjunto qualquer de dados que possa ser nomeado, agrupado, processado ou referenciado: um registro, ou uma coluna, ou mesmo toda a base de dados. 
-    \end{block}
-    \begin{block}{Cadeado (ou \emph{lock})}
-        Estrutura de dados implementada atomicamente pelo sistema operacional que oferece controle de acesso concorrente a um determinado recurso através da exclusão mútua.
-    \end{block}
+    Usar biometria de voz para identificar quem está falando
+
+    \begin{figure}[]
+        \centering
+        \includegraphics[width=\linewidth]{fig1.jpg}
+    \end{figure}
 \end{frame}
 
-\section{O Problema} % Sections can be created in order to organize your presentation into discrete blocks, all sections and subsections are automatically printed in the table of contents as an overview of the talk
-
 \begin{frame} % SLIDE 3
-    \frametitle{Problema do Caixeiro Viajante (TSP)}
-
-    O problema de roteamento de veículos (VRP) é uma generalização do problema do caixeiro viajante, onde o número \(k\) de veículos representa o número máximo de circuitos admitido como resposta.
-
-\end{frame}
-
-
-\begin{frame} % SLIDE 3
-    \frametitle{Problema de Roteamento de Veículos (VRP)}
-
-    No roteamento de veículos, há um vértice especial - o \emph{armazém} - que deve ser a origem e o destino de todas as rotas, e que não será incluído na cardinalidade \(n\). Os demais vértices serão chamados de \emph{clientes}.
-
-\end{frame}
-
-
-\begin{frame} % SLIDE 3
-    \frametitle{Problema de Roteamento de Veículos Capacitado (CVRP)}
-
-    Além da limitação de distância e de veículos disponíveis, cada cliente possui uma demanda \(q_{i} \, | \, i \in \{ \, 1, \, ... \, , \, n\} \) que deve ser atendida por um dos veículos de capacidade \(c_{i} \, | \, i \in \{ \, 1, \, ... \, , \, k\} \).
-
-\end{frame}
-
-\section{Problemas}
-
-\subsection{Janelas de tempo}
-
-\begin{frame} % SLIDE 3
-    \frametitle{Problema de Roteamento de Veículos Capacitado com Janelas de Tempo (CVRPTW)}
-
-    Nesta variante, clientes só podem ser atendidos num intervalo de tempo predeterminado. Arestas passam a representar o tempo de deslocamento, em vez da distância, para evitar cálculos desnecessários de velocidade. 
-
-
-\end{frame}
-
-
-\begin{frame} % SLIDE 3
-    \frametitle{Problema de Roteamento de Veículos Capacitado com Janelas de Tempo (CVRPTW)}
-
-    Um veículo pode chegar ao cliente antes do intervalo, mas só poderá seguir adiante quando a janela for aberta.
+    \frametitle{O Sinal de Voz}
+    
+    O sinal de áudio recebido como entrada é produzido através de diversas transformações que ocorrem em estágios distintos da captação sonora.
+    Portanto, precisamos extrair somente as propriedades sonoras chamadas de "dependentes do locutor".
 
     \medskip
-    O problema não fica significativamente mais difícil de resolver. A dificuldade encontrada foi conferir a validade da solução, que diminui muito o \emph{throughput} do programa.
+
+    Este processamento é geralmente feito por parametrização, como o LPC (\emph{Linear Prediction Coding}):
+
+    \bigskip
+
+    \begin{math}
+        s(n) = - \sum_{k=1}^{p} a_{k} \cdot s(n-k) + e(n)
+    \end{math}
+
+    \bigskip
+
+    \begin{itemize}
+        \item $p$ é a ordem de predição;
+
+        \item $a_{k}$  são os coeficientes de predição
+    
+        \item $s(n-k)$ são ps sinais anteriores
+    
+        \item $e(n)$ é o erro de predição.
+    \end{itemize}
+
+    
+
 
 \end{frame}
 
+\section{Pipeline}
 
-\section{Limitando o CVRP}
+\subsection{Diagrama}
+
+\begin{frame} % SLIDE 3
+    \frametitle{Visão Geral do Sistema}
+
+    \begin{figure}
+        \centering
+        \includegraphics[height=192pt]{fig2.png}
+        % \caption{Pipeline do processo de reconhecimento de locutor.}
+    \end{figure}
+
+
+\end{frame}
+
 
 \subsection{Dados de entrada}
 
 \begin{frame} % SLIDE 3
-    \frametitle{Grafo planar}
+    \frametitle{Captação do sinal}
 
-    Como as heurísticas testadas exigem que a \emph{inequação do triângulo} seja satisfeita, e como existem muitas instâncias deste problema já resolvidas, todas as entradas são \textbf{grafos planares}.
+    \begin{itemize}
+        \item Áudios de entrada amostrados em 8kHz ou 16kHz 
+        \medskip
+        \item 16 bits por amostra
+        \medskip
+        \item Duração variável entre 10 e 60 segundos
+    \end{itemize}
 
-    \bigskip
-    O grafo planar é \textbf{obrigatoriamente completo e não-direcionado} - o que elimina a necessidade de manter a lista de adjacências - e a aresta \(e(i, \, j)\) tem peso \((i_{x} - j_{x})^{2} + (i_{y} - j_{y})^{2}\).
+    
+\end{frame}
 
+\begin{frame} % SLIDE 3
+    \frametitle{\emph{Datasets}}
+
+    Dataset de treinamento: 34 locutores, 5 frases para cada locutor, 20-30 segundos
+
+    Dataset de teste: os mesmos 34 locutores, 1 frase para cada, $\approx$10 segundos
+
+\end{frame}
+
+\subsection{Pré-processamento}
+
+\begin{frame} % SLIDE 3
+    \frametitle{Amostragem}
+
+    O sinal de voz é tradicionalmente não-estacionário, o que dificulta a análise das frequências contidas nele. 
+
+    \begin{figure}[]
+        \centering
+        \includegraphics[height=135pt]{fig4.png}
+        \centering
+
+    \end{figure}
 \end{frame}
 
 
 \begin{frame} % SLIDE 3
-    \frametitle{Grafos solucionáveis}
+    \frametitle{Amostragem}
 
-    Todas as instâncias testadas têm ao menos uma solução conhecida. O objetivo é garantir que existe uma solução plausível de ser encontrada no grafo em questão.
+    O sinal de áudio é dividido em quadros de 20-30 ms para encontrar estacionariedade.
 
-    \bigskip
-    Quando a solução ótima já é conhecida, os valores obtidos para o total de veículos utilizados e para a distância percorrida foram usadas como limites inferiores (\emph{lower bounds}).
+    \begin{figure}[]
+        \centering
+        \includegraphics[height=135pt]{fig3.png}
+        \centering
 
-\end{frame}
-
-\subsection{Dados de saída}
-
-\begin{frame} % SLIDE 3
-    \frametitle{Objetivos}
-
-    A função objetivo que determina a solução ótima do CVRP foi escolhida como a minimização de rotas, isto é, a melhor solução é a que demanda menos veículos.
-
-    \bigskip
-    Todos os veículos são considerados de mesmo custo, mesmo quando possuem capacidades diferentes (\emph{heterogêneos}). Para as heurísticas, essa dinâmica é importante porque os veículos mais pesados serão empregados primeiro.
+    \end{figure}
 
 \end{frame}
 
 \begin{frame} % SLIDE 3
-    \frametitle{Objetivos}
+    \frametitle{Janelamento}
 
-    Dadas duas soluções com mesmo número \(k\) de rotas empregadas, a que tiver menor distância total percorrida é considerada melhor.
+    Como o intervalo de amostragem é arbitrário, o sinal apresenta descontinuidades nas extremidades da onda extraída.
+
+    \begin{figure}[]
+        \centering
+        \includegraphics[height=135pt]{fig5.png}
+        \centering
+
+    \end{figure}
+\end{frame}
+
+\begin{frame} % SLIDE 3
+    \frametitle{Janelamento}
+
+    Para isso, é feito um janelamento que reduz as extremidades gradativamente a zero. 
+
+    \begin{figure}[]
+        \centering
+        \includegraphics[height=135pt]{fig6.png}
+        \centering
+
+    \end{figure}
+\end{frame}
+
+\subsection{Treinamento}
+
+\begin{frame} % SLIDE 3
+    \frametitle{Parametrização}
+
+    A extração dos parâmetros é feita pela técnica MFC (\emph{Mel-frequency cepstrum}):
+
+    % diagrama: MFCCs are commonly derived as follows:[2]
+    \begin{enumerate}
+        \item Janelamento do sinal
+        \item Transformada de Fourier das janelas
+        \item Mapeamento das potências do espectro na escala de Mel
+        \item Logaritmos das potências nas frequências de Mel
+        \item Transformada discreta de cosseno dos logaritmos
+        \item Obtenção das amplitudes do espectro resultante (são os MFCCs)
+    \end{enumerate}
+
+\end{frame}
+
+\begin{frame} % SLIDE 3
+    \frametitle{Modelagem}
+
+    Pelo MFC, são extraídos 40 coeficientes (chamados de MFCCs), que alimentam GMMs (\emph{modelos misturados de Gauss}).
 
     \medskip
-    As duas heurísticas testadas são dependentes da escolha inicial dos vértices. Por isso, foram executadas algumas vezes com valores iniciais distintos e o resultado mostrado é o melhor encontrado.
 
+    Durante o treinamento, os GMMs tentam aprender a distribuição dos MFCCs do dataset de treino.
+
+    \medskip
+
+
+    Durante o teste, os GMMs darão "notas" aos MFCCs do dataset de teste. 
 
 \end{frame}
+
+\begin{frame}[fragile] % SLIDE 3
+    \frametitle{Modelagem}
+
+    GMMs são modelos que agrupam linearmente $k$ distribuições normais para tentarem imitar a distribuição probabilística das subpopulações. Por isso, a identificação dos locutores consiste no locutor mais provável.
+
+    \medskip
+
+    Essa probabilidade $P(X|\lambda)$ é dada por:
+
+    \bigskip
+
+    \begin{math}
+        P(X|\lambda) = \sum_{k=1}^{K} \omega_{k} P_{k}(X|\mu_{k}, \sum_{k})
+    \end{math}
+
+    \bigskip
+
+    onde $P_{k}(X|\mu_{k}, \sum_{k})$ é a distribuição normal:
+
+    \bigskip
+
+    \begin{math}
+        P_{k}(X|\mu_{k}, \sum_{k}) = (\sqrt{2\pi|\sum_{k}|})^{-1}e^{1/2(X-\mu_{k})^{T}\sum^{-1}(X-\mu_{k})}
+    \end{math}
+
+\end{frame}
+
 
 \section{Implementação}
 
-\subsection{Algoritmos exatos}
+\subsection{MFC}
 
 \begin{frame}[fragile] % SLIDE 3
-    \frametitle{Algoritmo 1: Força bruta}
+    \frametitle{Módulos}
 
-    A força bruta é baseada no \emph{powerset} de rotas - o conjunto de todas as rotas possíveis - e no \emph{powerset} de soluções - o conjunto de todas as soluções possíveis.
+    Existem várias ferramentas que calculam MFCCs. Optamos pelo \texttt{python\_speech\_features}:
 
     \bigskip
     \begin{python}
-    def powerset(iterable, lb=1):
-        "powerset([1,2,3]) --> () (1,) (2,) (3,) (1,2) 
-                               (1,3) (2,3) (1,2,3)"
-        s = list(iterable)
-        return itertools.chain.from_iterable(
-            itertools.combinations(s, r)
-            for r in range(lb, len(s)+1))
+import python_speech_features as mfc
+from sklearn import preprocessing
+def mfcc(sinal, taxa=16000, janela=0.03, dist_janelas=0.01):
+    parametros = mfc.mfc(sinal, taxa, janela, dist_janelas)
+    parametros = preprocessing.scale(parametros)
+    return parametros
+    \end{python}
+
+\end{frame}
+
+\subsection{GMM}
+
+\begin{frame}[fragile] % SLIDE 3
+    \frametitle{Módulos}
+
+    Dos \texttt{parametros} extraídos anteriormente, apreendemos GMMs usando o módulo \texttt{sklearn}:
+
+    \bigskip
+    \begin{python}
+from sklearn.mixture import GMM
+gmm = GMM(n_components = 8, n_iter = 200, covariance_type='diag', n_init = 3)
+gmm.fit(parametros)
     \end{python}
 
 \end{frame}
 
 \begin{frame}[fragile] % SLIDE 3
-    \frametitle{Algoritmo 2: Força bruta com \emph{branch-and-bound}}
+    \frametitle{Módulos}
 
-    Para reduzir cada \emph{powerset}, foram aplicadas algumas checagens:
+    Em tese, o número de componentes e o total de iterações não deveriam ser arbitrários, mas sim descoberto através do algoritmo k-médias. 
 
-    \medskip
-    \begin{enumerate}
-        \item limites inferiores de demanda da rota:
-    \begin{block}{todo veículo em rota precisa atender ao menos um cliente}
-    \begin{python}
-    lower_bound = min(total_demand % max(capacities),
-                      max(demands[1:]))
-    \end{python}
-    \end{block}
+    Para este trabalho, no entanto, optamos por utilizar os valores padrão:
 
-    \begin{block}{se a capacidade total for igual à demanda total, então cada veículo deve receber uma rota que consuma toda a sua capacidade}
-    \begin{python}
-    lower_bound = capacities[i] if (sum(capacities) ==
-                                    sum(demands))
-    \end{python}
-    \end{block}
-        
-    \end{enumerate}
-
+    \begin{itemize}
+        \item $k = 8$: os dados sempre terão 8 agrupamentos (e 8 centroides).
+        \item 200 iterações: maioria dos exemplos utilizavam este valor.
+    \end{itemize}
 
 \end{frame}
 
-% \begin{frame}[fragile] % SLIDE 3
-%     \frametitle{Algoritmo 2: Força bruta com \emph{branch-and-bound}}
+\section{Conclusão}
 
-%     \begin{block}{todo veículo em rota precisa atender ao menos um cliente}
-%     \begin{python}
-%     lower_bound = min(total_demand % max(capacities),
-%                       max(demands[1:]))
-%     \end{python}
-%     \end{block}
+\subsection{Planejamento Futuro}
 
-%     \begin{block}{se a capacidade total for igual à demanda total, então cada veículo deve receber uma rota que consuma toda a sua capacidade}
-%     \begin{python}
-%     lower_bound = capacities[i] if (sum(capacities) ==
-%                                     sum(demands))
-%     \end{python}
-%     \end{block}
-        
-%     \end{enumerate}
+\begin{frame}
+    \frametitle{Objetos a serem testados}
+
+    \begin{itemize}
+        \item Datasets
+        \item Parametrizações
+        \item Modelagens estatísticas
+        \item Ferramentas
+        \item Pipelines
+    \end{itemize}
+
+\end{frame}
 
 
+% \section{Referências bibliográficas}
+
+% \begin{frame} % SLIDE 53
+%     \frametitle{Referências bibliográficas}
+%     \footnotesize{
+%     \begin{thebibliography}{99} % Beamer does not support BibTeX so references must be inserted manually as below
+%     % \bibitem[Smith, 2012]{p1} John Smith (2012)
+%         \bibitem[Silberschatz, 2010]{p1}
+%         Silberschatz, A., Korth, H. F., \& Sudarshan, S. (2010). Database system concepts (Vol. 4). New York: McGraw-Hill.
+
+%         \bibitem[Rawat, 2017]{p2}
+%         Rawat, U. (2017). Implementation of Locking in DBMS. Acessado a \date{25/11/2018} em https://www.geeksforgeeks.org/implementation-of-locking-in-dbms/.
+
+%         \bibitem[Porfirio, 2013]{p3}
+%         Porfirio, Alice \& Pellegrini, Alessandro \& Di Sanzo, Pierangelo \& Quaglia, Francesco. (2013). Transparent Support for Partial Rollback in Software Transactional Memories. 8097. 583-594. 10.1007/978-3-642-40047-6\_59. 
+
+%         \bibitem[Poddar, 2013]{p4}
+%         Poddar, Saumendra. (2003). SQL Server Transactions and Error Handling. Acessado a \date{25/11/2018} em https://www.codeproject.com/Articles/4451/SQL-Server-Transactions-and-Error-Handling.
+%     \end{thebibliography}
+%     }
 % \end{frame}
 
 
-\begin{frame}[fragile] % SLIDE 3
-    \frametitle{Algoritmo 2: Força bruta com \emph{branch-and-bound}}
+% \begin{frame} % SLIDE 53
+%     \frametitle{Referências bibliográficas}
+%     \footnotesize{
+%     \begin{thebibliography}{99} % Beamer does not support BibTeX so references must be inserted manually as below
 
-    \begin{enumerate}
-        \setcounter{enumi}{1}
-        \item limites superiores de demanda da rota:
-    \begin{block}{rota precisa ter demanda compatível com a capacidade do veículo}
-    \begin{python}
-    upper_bound = max(capacities)
-    \end{python}
-    \end{block}
+%     \bibitem[Singhal, 2018]{p5}
+%         Singhal, Akshay. (2018). Cascading Schedule | Cascading Rollback | Cascadeless Schedule. Acessado a \date{25/11/2018} em https://www.gatevidyalay.com/cascading-schedule-cascading-rollback-cascadeless-schedule/.
 
-        \item limites inferiores de veículos assinalados:
-    \begin{block}{a capacidade total precisa dar conta da demanda total}
-    \begin{python}
-    while sum(capacities) > sum(demands):
-        capacities.pop()
-    for solution in powerset(viable_routes[::-1],
-                             lb=len(capacities)):
-        (...)
-    \end{python}
-    \end{block}
-        
-    \end{enumerate}
+%         \bibitem[Pandey, 2018]{p6}
+%         Pandey, Anand. (2018). Transactions and Concurrency Control. Acessado a \date{25/11/2018} em https://gradeup.co/transactions-and-concurrency-control-i-4c5d9b27-c5a7-11e5-bcc4-bc86a005f7ba.
 
+% 	    \bibitem[Difference between, 2018]{p7}
+%         Difference between. (2018). Difference between Deadlock and Starvation. Acessado a \date{25/11/2018} em http://www.differencebetween.info/difference-between-deadlock-and-starvation.
 
-\end{frame}
-
-
-\begin{frame}[fragile] % SLIDE 3
-    \frametitle{Algoritmo 2: Força bruta com \emph{branch-and-bound}}
-
-    \begin{block}{se existe uma solução ótima conhecida da instância, então o número de rotas dela é um limite inferior}
-    
-    \end{block}
-
-    \begin{enumerate}
-        \setcounter{enumi}{3}
-        \item limites superiores de veículos assinalados:
-
-    \begin{block}{se existe uma solução heurística viável, então a solução ótima tem que ter um número de rotas obrigatoriamente menor ou igual}
-    \begin{python}
-    upper_bound = heuristics_bounds()["upper"]
-    \end{python}
-    \end{block}
-        
-    \end{enumerate}
-
-\end{frame}
-
-
-\begin{frame}[fragile] % SLIDE 3
-    \frametitle{Algoritmo 2: Força bruta com \emph{branch-and-bound}}
-
-    O \emph{powerset} gera um conjunto ordenado de rotas. Portanto, se uma rota \(r_{i}\) for incompatível com outra \(r_{j > i}\), é abandonar o fio de execução em favor da rota \(r_{j+1}\). 
-
-    \bigskip
-
-    \begin{enumerate}
-        \setcounter{enumi}{4}
-        \item checagem de soluções:
-
-    \begin{block}{se duas rotas possuem um vértice em comum, então as soluções que incluem ambas são inviáveis:}
-    \begin{python}
-    if (len(set(i for x in solution for i in x[0]))
-        != len([i for x in solution for i in x[0])]):
-        continue
-    \end{python}
-    \end{block}
-        
-        
-    \end{enumerate}
-
-\end{frame}
-
-
-\begin{frame}[fragile] % SLIDE 3
-    \frametitle{Algoritmo 2: Força bruta com \emph{branch-and-bound}}
-
-    \begin{block}{se uma rota faz a solução ter distância maior que a encontrada por uma heurística, então ela não leverá a uma solução ótima:}
-    \begin{python}
-    if this_solution_distance > distance_upper_bound:
-        continue
-    \end{python}
-    \end{block}
-
-    \begin{block}{se a rota introduz uma solução que é pior que a melhor solução já encontrada pelo algoritmo, então ela não levará ao ótimo:}
-    \begin{python}
-    total_weight = sum(
-        [G.get_edge_data(x[0][i], x[0][i+1])["weight"]
-         for x in solution for i in range(len(x[0])-1)])
-    if total_weight > best_route[1]:
-        continue
-    \end{python}
-    \end{block}
-
-        
-\end{frame}
-
-
-
-\begin{frame} % SLIDE 3
-    \frametitle{Objetivos}
-
-    Dadas duas soluções com mesmo número \(k\) de rotas empregadas, a que tiver menor distância total percorrida é considerada melhor.
-
-    \medskip
-    As duas heurísticas testadas são dependentes da escolha inicial dos vértices. Por isso, foram executadas algumas vezes com valores iniciais distintos e o resultado mostrado é o melhor encontrado.
-
-
-\end{frame}
-
-\section{Referências bibliográficas}
-
-\begin{frame} % SLIDE 53
-    \frametitle{Referências bibliográficas}
-    \footnotesize{
-    \begin{thebibliography}{99} % Beamer does not support BibTeX so references must be inserted manually as below
-    % \bibitem[Smith, 2012]{p1} John Smith (2012)
-        \bibitem[Silberschatz, 2010]{p1}
-        Silberschatz, A., Korth, H. F., \& Sudarshan, S. (2010). Database system concepts (Vol. 4). New York: McGraw-Hill.
-
-        \bibitem[Rawat, 2017]{p2}
-        Rawat, U. (2017). Implementation of Locking in DBMS. Acessado a \date{25/11/2018} em https://www.geeksforgeeks.org/implementation-of-locking-in-dbms/.
-
-        \bibitem[Porfirio, 2013]{p3}
-        Porfirio, Alice \& Pellegrini, Alessandro \& Di Sanzo, Pierangelo \& Quaglia, Francesco. (2013). Transparent Support for Partial Rollback in Software Transactional Memories. 8097. 583-594. 10.1007/978-3-642-40047-6\_59. 
-
-        \bibitem[Poddar, 2013]{p4}
-        Poddar, Saumendra. (2003). SQL Server Transactions and Error Handling. Acessado a \date{25/11/2018} em https://www.codeproject.com/Articles/4451/SQL-Server-Transactions-and-Error-Handling.
-    \end{thebibliography}
-    }
-\end{frame}
-
-
-\begin{frame} % SLIDE 53
-    \frametitle{Referências bibliográficas}
-    \footnotesize{
-    \begin{thebibliography}{99} % Beamer does not support BibTeX so references must be inserted manually as below
-
-    \bibitem[Singhal, 2018]{p5}
-        Singhal, Akshay. (2018). Cascading Schedule | Cascading Rollback | Cascadeless Schedule. Acessado a \date{25/11/2018} em https://www.gatevidyalay.com/cascading-schedule-cascading-rollback-cascadeless-schedule/.
-
-        \bibitem[Pandey, 2018]{p6}
-        Pandey, Anand. (2018). Transactions and Concurrency Control. Acessado a \date{25/11/2018} em https://gradeup.co/transactions-and-concurrency-control-i-4c5d9b27-c5a7-11e5-bcc4-bc86a005f7ba.
-
-	    \bibitem[Difference between, 2018]{p7}
-        Difference between. (2018). Difference between Deadlock and Starvation. Acessado a \date{25/11/2018} em http://www.differencebetween.info/difference-between-deadlock-and-starvation.
-
-    \end{thebibliography}
-    }
-\end{frame}
+%     \end{thebibliography}
+%     }
+% \end{frame}
 
 %------------------------------------------------
 
