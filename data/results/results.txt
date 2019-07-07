@@ -1,0 +1,598 @@
+
+(procvoz-hB1pilWy) ramon@ramon-desktop-ubuntu:~/Documents/PycharmProjects/procvoz$ cd /home/ramon/Documents/PycharmProjects/procvoz ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/ramon/.virtualenvs/procvoz-hB1pilWy/bin/python /home/ramon/.vscode-insiders/extensions/ms-python.python-2019.6.22090/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 45711 /home/ramon/Documents/PycharmProjects/procvoz/model_training.py 
+anthonyschaller-20071221-/wav/a0491.wav
+anthonyschaller-20071221-/wav/a0492.wav
+anthonyschaller-20071221-/wav/a0493.wav
+anthonyschaller-20071221-/wav/a0494.wav
+anthonyschaller-20071221-/wav/a0495.wav
++ modeling completed for speaker: anthonyschaller.gmm  with data point =  (1595, 40)
+Apple_Eater-20091026-yul/wav/a0052.wav
+Apple_Eater-20091026-yul/wav/a0053.wav
+Apple_Eater-20091026-yul/wav/a0054.wav
+Apple_Eater-20091026-yul/wav/a0055.wav
+Apple_Eater-20091026-yul/wav/a0056.wav
++ modeling completed for speaker: Apple_Eater.gmm  with data point =  (2077, 40)
+Ara-20091020-vni/wav/a0517.wav
+Ara-20091020-vni/wav/a0518.wav
+Ara-20091020-vni/wav/a0519.wav
+Ara-20091020-vni/wav/a0520.wav
+Ara-20091020-vni/wav/a0521.wav
++ modeling completed for speaker: Ara.gmm  with data point =  (3644, 40)
+argail-20090722-gau/wav/rb-12.wav
+argail-20090722-gau/wav/rb-13.wav
+argail-20090722-gau/wav/rb-14.wav
+argail-20090722-gau/wav/rb-15.wav
+argail-20090722-gau/wav/rb-16.wav
++ modeling completed for speaker: argail.gmm  with data point =  (2468, 40)
+ariyan-20120801-gra/wav/b0265.wav
+ariyan-20120801-gra/wav/b0266.wav
+ariyan-20120801-gra/wav/b0267.wav
+ariyan-20120801-gra/wav/b0268.wav
+ariyan-20120801-gra/wav/b0269.wav
++ modeling completed for speaker: ariyan.gmm  with data point =  (2506, 40)
+arjuan-20100820-acz/wav/b0217.wav
+arjuan-20100820-acz/wav/b0218.wav
+arjuan-20100820-acz/wav/b0219.wav
+arjuan-20100820-acz/wav/b0220.wav
+arjuan-20100820-acz/wav/b0221.wav
++ modeling completed for speaker: arjuan.gmm  with data point =  (2707, 40)
+Artem-20121123-ebd/wav/b0131.wav
+Artem-20121123-ebd/wav/b0132.wav
+Artem-20121123-ebd/wav/b0133.wav
+Artem-20121123-ebd/wav/b0134.wav
+Artem-20121123-ebd/wav/b0135.wav
++ modeling completed for speaker: Artem.gmm  with data point =  (2794, 40)
+arthur-20130509-yjj/wav/ar-01.wav
+arthur-20130509-yjj/wav/ar-02.wav
+arthur-20130509-yjj/wav/ar-03.wav
+arthur-20130509-yjj/wav/ar-04.wav
+arthur-20130509-yjj/wav/ar-05.wav
++ modeling completed for speaker: arthur.gmm  with data point =  (3782, 40)
+artk-20101225-kvd/wav/b0302.wav
+artk-20101225-kvd/wav/b0303.wav
+artk-20101225-kvd/wav/b0304.wav
+artk-20101225-kvd/wav/b0305.wav
+artk-20101225-kvd/wav/b0306.wav
++ modeling completed for speaker: artk.gmm  with data point =  (3369, 40)
+arun-20100928-usw/wav/b0171.wav
+arun-20100928-usw/wav/b0172.wav
+arun-20100928-usw/wav/b0173.wav
+arun-20100928-usw/wav/b0174.wav
+arun-20100928-usw/wav/b0175.wav
++ modeling completed for speaker: arun.gmm  with data point =  (3031, 40)
+arvala-20110103-nlb/wav/a0228.wav
+arvala-20110103-nlb/wav/a0229.wav
+arvala-20110103-nlb/wav/a0230.wav
+arvala-20110103-nlb/wav/a0231.wav
+arvala-20110103-nlb/wav/a0232.wav
++ modeling completed for speaker: arvala.gmm  with data point =  (2718, 40)
+asalkeld-20111226-ets/wav/a0147.wav
+asalkeld-20111226-ets/wav/a0148.wav
+asalkeld-20111226-ets/wav/a0149.wav
+asalkeld-20111226-ets/wav/a0150.wav
+asalkeld-20111226-ets/wav/a0151.wav
++ modeling completed for speaker: asalkeld.gmm  with data point =  (3294, 40)
+asladic-20100311-bfp/wav/b0133.wav
+asladic-20100311-bfp/wav/b0134.wav
+asladic-20100311-bfp/wav/b0135.wav
+asladic-20100311-bfp/wav/b0136.wav
+asladic-20100311-bfp/wav/b0137.wav
++ modeling completed for speaker: asladic.gmm  with data point =  (1743, 40)
+AslakKnutsen-20140314-bje/wav/a0417.wav
+AslakKnutsen-20140314-bje/wav/a0418.wav
+AslakKnutsen-20140314-bje/wav/a0419.wav
+AslakKnutsen-20140314-bje/wav/a0420.wav
+AslakKnutsen-20140314-bje/wav/a0421.wav
++ modeling completed for speaker: AslakKnutsen.gmm  with data point =  (2444, 40)
+asp-20091228-qtl/wav/a0577.wav
+asp-20091228-qtl/wav/a0578.wav
+asp-20091228-qtl/wav/a0579.wav
+asp-20091228-qtl/wav/a0580.wav
+asp-20091228-qtl/wav/a0581.wav
++ modeling completed for speaker: asp.gmm  with data point =  (2506, 40)
+AT-20130718-lws/wav/a0011.wav
+AT-20130718-lws/wav/a0012.wav
+AT-20130718-lws/wav/a0013.wav
+AT-20130718-lws/wav/a0014.wav
+AT-20130718-lws/wav/a0015.wav
++ modeling completed for speaker: AT.gmm  with data point =  (2694, 40)
+atamur-20090211-wdo/wav/a0539.wav
+atamur-20090211-wdo/wav/a0540.wav
+atamur-20090211-wdo/wav/a0541.wav
+atamur-20090211-wdo/wav/a0542.wav
+atamur-20090211-wdo/wav/a0543.wav
++ modeling completed for speaker: atamur.gmm  with data point =  (2056, 40)
+ataru80-20120624-hfe/wav/a0077.wav
+ataru80-20120624-hfe/wav/a0078.wav
+ataru80-20120624-hfe/wav/a0079.wav
+ataru80-20120624-hfe/wav/a0080.wav
+ataru80-20120624-hfe/wav/a0081.wav
++ modeling completed for speaker: ataru80.gmm  with data point =  (2831, 40)
+atterer-01202007-b/wav/vf21-01.wav
+atterer-01202007-b/wav/vf21-02.wav
+atterer-01202007-b/wav/vf21-03.wav
+atterer-01202007-b/wav/vf21-04.wav
+atterer-01202007-b/wav/vf21-05.wav
++ modeling completed for speaker: atterer.gmm  with data point =  (2391, 40)
+audioodyssey-20081109-rew/wav/a0425.wav
+audioodyssey-20081109-rew/wav/a0426.wav
+audioodyssey-20081109-rew/wav/a0427.wav
+audioodyssey-20081109-rew/wav/a0428.wav
+audioodyssey-20081109-rew/wav/a0429.wav
++ modeling completed for speaker: audioodyssey.gmm  with data point =  (3219, 40)
+avsa242-20071208/wav/cc-01.wav
+avsa242-20071208/wav/cc-02.wav
+avsa242-20071208/wav/cc-03.wav
+avsa242-20071208/wav/cc-04.wav
+avsa242-20071208/wav/cc-05.wav
++ modeling completed for speaker: avsa242.gmm  with data point =  (2708, 40)
+ax-20150219-yhd/wav/b0003.wav
+ax-20150219-yhd/wav/b0004.wav
+ax-20150219-yhd/wav/b0005.wav
+ax-20150219-yhd/wav/b0006.wav
+ax-20150219-yhd/wav/b0007.wav
++ modeling completed for speaker: ax.gmm  with data point =  (2719, 40)
+axllaruse-20140112-ced/wav/a0491.wav
+axllaruse-20140112-ced/wav/a0492.wav
+axllaruse-20140112-ced/wav/a0493.wav
+axllaruse-20140112-ced/wav/a0494.wav
+axllaruse-20140112-ced/wav/a0495.wav
++ modeling completed for speaker: axllaruse.gmm  with data point =  (3381, 40)
+azmisov-20140428-cyp/wav/a0003.wav
+azmisov-20140428-cyp/wav/a0004.wav
+azmisov-20140428-cyp/wav/a0005.wav
+azmisov-20140428-cyp/wav/a0006.wav
+azmisov-20140428-cyp/wav/a0007.wav
++ modeling completed for speaker: azmisov.gmm  with data point =  (2195, 40)
+B-20091220-vus/wav/b0245.wav
+B-20091220-vus/wav/b0246.wav
+B-20091220-vus/wav/b0247.wav
+B-20091220-vus/wav/b0248.wav
+B-20091220-vus/wav/b0249.wav
++ modeling completed for speaker: B.gmm  with data point =  (2042, 40)
+bachroxx-20080119-tuu/wav/b0107.wav
+bachroxx-20080119-tuu/wav/b0108.wav
+bachroxx-20080119-tuu/wav/b0109.wav
+bachroxx-20080119-tuu/wav/b0110.wav
+bachroxx-20080119-tuu/wav/b0111.wav
++ modeling completed for speaker: bachroxx.gmm  with data point =  (1955, 40)
+bae-20110617-vdq/wav/a0131.wav
+bae-20110617-vdq/wav/a0132.wav
+bae-20110617-vdq/wav/a0133.wav
+bae-20110617-vdq/wav/a0134.wav
+bae-20110617-vdq/wav/a0135.wav
++ modeling completed for speaker: bae.gmm  with data point =  (2719, 40)
+Bahoke-20130721-brs/wav/b0437.wav
+Bahoke-20130721-brs/wav/b0438.wav
+Bahoke-20130721-brs/wav/b0439.wav
+Bahoke-20130721-brs/wav/b0440.wav
+Bahoke-20130721-brs/wav/b0441.wav
++ modeling completed for speaker: Bahoke.gmm  with data point =  (2194, 40)
+Bareford-20101110-qkl/wav/a0012.wav
+Bareford-20101110-qkl/wav/a0013.wav
+Bareford-20101110-qkl/wav/a0014.wav
+Bareford-20101110-qkl/wav/a0015.wav
+Bareford-20101110-qkl/wav/a0016.wav
++ modeling completed for speaker: Bareford.gmm  with data point =  (2844, 40)
+bart-20090807-ufp/wav/b0421.wav
+bart-20090807-ufp/wav/b0422.wav
+bart-20090807-ufp/wav/b0423.wav
+bart-20090807-ufp/wav/b0424.wav
+bart-20090807-ufp/wav/b0425.wav
++ modeling completed for speaker: bart.gmm  with data point =  (2079, 40)
+Bassel-20120209-xky/wav/b0425.wav
+Bassel-20120209-xky/wav/b0426.wav
+Bassel-20120209-xky/wav/b0427.wav
+Bassel-20120209-xky/wav/b0428.wav
+Bassel-20120209-xky/wav/b0429.wav
++ modeling completed for speaker: Bassel.gmm  with data point =  (2831, 40)
+beady-20100219-xpq/wav/a0441.wav
+beady-20100219-xpq/wav/a0442.wav
+beady-20100219-xpq/wav/a0443.wav
+beady-20100219-xpq/wav/a0444.wav
+beady-20100219-xpq/wav/a0445.wav
++ modeling completed for speaker: beady.gmm  with data point =  (2409, 40)
+beez1717-20111017-yqm/wav/a0081.wav
+beez1717-20111017-yqm/wav/a0082.wav
+beez1717-20111017-yqm/wav/a0083.wav
+beez1717-20111017-yqm/wav/a0084.wav
+beez1717-20111017-yqm/wav/a0085.wav
++ modeling completed for speaker: beez1717.gmm  with data point =  (2132, 40)
+belmontguy-20110426-geu/wav/b0149.wav
+belmontguy-20110426-geu/wav/b0150.wav
+belmontguy-20110426-geu/wav/b0151.wav
+belmontguy-20110426-geu/wav/b0152.wav
+belmontguy-20110426-geu/wav/b0153.wav
++ modeling completed for speaker: belmontguy.gmm  with data point =  (2594, 40)
+(procvoz-hB1pilWy) ramon@ramon-desktop-ubuntu:~/Documents/PycharmProjects/procvoz$ cd /home/ramon/Documents/PycharmProjects/procvoz ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/ramon/.virtualenvs/procvoz-hB1pilWy/bin/python /home/ramon/.vscode-insiders/extensions/ms-python.python-2019.6.22090/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 36089 /home/ramon/Documents/PycharmProjects/procvoz/model_test.py 
+Terminated
+(procvoz-hB1pilWy) ramon@ramon-desktop-ubuntu:~/Documents/PycharmProjects/procvoz$ cd /home/ramon/Documents/PycharmProjects/procvoz ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/ramon/.virtualenvs/procvoz-hB1pilWy/bin/python /home/ramon/.vscode-insiders/extensions/ms-python.python-2019.6.22090/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 32981 /home/ramon/Documents/PycharmProjects/procvoz/model_test.py 
+Traceback (most recent call last):
+  File "/home/ramon/.vscode-insiders/extensions/ms-python.python-2019.6.22090/pythonFiles/ptvsd_launcher.py", line 43, in <module>
+    main(ptvsdArgs)
+  File "/home/ramon/.vscode-insiders/extensions/ms-python.python-2019.6.22090/pythonFiles/lib/python/ptvsd/__main__.py", line 434, in main
+    run()
+  File "/home/ramon/.vscode-insiders/extensions/ms-python.python-2019.6.22090/pythonFiles/lib/python/ptvsd/__main__.py", line 312, in run_file
+    runpy.run_path(target, run_name='__main__')
+  File "/usr/lib/python3.6/runpy.py", line 263, in run_path
+    pkg_name=pkg_name, script_name=fname)
+  File "/usr/lib/python3.6/runpy.py", line 96, in _run_module_code
+    mod_name, mod_spec, pkg_name, script_name)
+  File "/usr/lib/python3.6/runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "/home/ramon/Documents/PycharmProjects/procvoz/model_test.py", line 22, in <module>
+    models    = [pickle.load(open(fname,'r')) for fname in gmm_files]
+  File "/home/ramon/Documents/PycharmProjects/procvoz/model_test.py", line 22, in <listcomp>
+    models    = [pickle.load(open(fname,'r')) for fname in gmm_files]
+  File "/home/ramon/.virtualenvs/procvoz-hB1pilWy/lib/python3.6/codecs.py", line 321, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x80 in position 0: invalid start byte
+(procvoz-hB1pilWy) ramon@ramon-desktop-ubuntu:~/Documents/PycharmProjects/procvoz$ cd /home/ramon/Documents/PycharmProjects/procvoz ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/ramon/.virtualenvs/procvoz-hB1pilWy/bin/python /home/ramon/.vscode-insiders/extensions/ms-python.python-2019.6.22090/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 37173 /home/ramon/Documents/PycharmProjects/procvoz/model_test.py 
+Terminated
+(procvoz-hB1pilWy) ramon@ramon-desktop-ubuntu:~/Documents/PycharmProjects/procvoz$ cd /home/ramon/Documents/PycharmProjects/procvoz ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/ramon/.virtualenvs/procvoz-hB1pilWy/bin/python /home/ramon/.vscode-insiders/extensions/ms-python.python-2019.6.22090/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 34769 /home/ramon/Documents/PycharmProjects/procvoz/model_test.py 
+Terminated
+(procvoz-hB1pilWy) ramon@ramon-desktop-ubuntu:~/Documents/PycharmProjects/procvoz$ cd /home/ramon/Documents/PycharmProjects/procvoz ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/ramon/.virtualenvs/procvoz-hB1pilWy/bin/python /home/ramon/.vscode-insiders/extensions/ms-python.python-2019.6.22090/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 44421 /home/ramon/Documents/PycharmProjects/procvoz/model_test.py 
+anthonyschaller-20071221-/wav/a0496.wav
+Traceback (most recent call last):
+  File "/home/ramon/.vscode-insiders/extensions/ms-python.python-2019.6.22090/pythonFiles/ptvsd_launcher.py", line 43, in <module>
+    main(ptvsdArgs)
+  File "/home/ramon/.vscode-insiders/extensions/ms-python.python-2019.6.22090/pythonFiles/lib/python/ptvsd/__main__.py", line 434, in main
+    run()
+  File "/home/ramon/.vscode-insiders/extensions/ms-python.python-2019.6.22090/pythonFiles/lib/python/ptvsd/__main__.py", line 312, in run_file
+    runpy.run_path(target, run_name='__main__')
+  File "/usr/lib/python3.6/runpy.py", line 263, in run_path
+    pkg_name=pkg_name, script_name=fname)
+  File "/usr/lib/python3.6/runpy.py", line 96, in _run_module_code
+    mod_name, mod_spec, pkg_name, script_name)
+  File "/usr/lib/python3.6/runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "/home/ramon/Documents/PycharmProjects/procvoz/model_test.py", line 31, in <module>
+    sr, audio = read(source + path)
+  File "/home/ramon/.virtualenvs/procvoz-hB1pilWy/lib/python3.6/site-packages/scipy/io/wavfile.py", line 233, in read
+    fid = open(filename, 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: '/home/ramon/Documents/PycharmProjects/procvoz/data/datasetanthonyschaller-20071221-/wav/a0496.wav'
+(procvoz-hB1pilWy) ramon@ramon-desktop-ubuntu:~/Documents/PycharmProjects/procvoz$ cd /home/ramon/Documents/PycharmProjects/procvoz ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/ramon/.virtualenvs/procvoz-hB1pilWy/bin/python /home/ramon/.vscode-insiders/extensions/ms-python.python-2019.6.22090/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 46787 /home/ramon/Documents/PycharmProjects/procvoz/model_test.py 
+anthonyschaller-20071221-/wav/a0496.wav
+Terminated
+(procvoz-hB1pilWy) ramon@ramon-desktop-ubuntu:~/Documents/PycharmProjects/procvoz$ cd /home/ramon/Documents/PycharmProjects/procvoz ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /home/ramon/.virtualenvs/procvoz-hB1pilWy/bin/python /home/ramon/.vscode-insiders/extensions/ms-python.python-2019.6.22090/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 40801 /home/ramon/Documents/PycharmProjects/procvoz/model_test.py 
+anthonyschaller-20071221-/wav/a0496.wav
+        detected as -  anthonyschaller
+anthonyschaller-20071221-/wav/a0497.wav
+        detected as -  anthonyschaller
+anthonyschaller-20071221-/wav/a0498.wav
+        detected as -  anthonyschaller
+anthonyschaller-20071221-/wav/a0499.wav
+        detected as -  anthonyschaller
+anthonyschaller-20071221-/wav/a0500.wav
+        detected as -  anthonyschaller
+Apple_Eater-20091026-yul/wav/a0057.wav
+        detected as -  Apple_Eater
+Apple_Eater-20091026-yul/wav/a0058.wav
+        detected as -  Apple_Eater
+Apple_Eater-20091026-yul/wav/a0059.wav
+        detected as -  Apple_Eater
+Apple_Eater-20091026-yul/wav/a0060.wav
+        detected as -  Apple_Eater
+Apple_Eater-20091026-yul/wav/a0061.wav
+        detected as -  Apple_Eater
+Ara-20091020-vni/wav/a0522.wav
+        detected as -  Ara
+Ara-20091020-vni/wav/a0523.wav
+        detected as -  Ara
+Ara-20091020-vni/wav/a0524.wav
+        detected as -  Ara
+Ara-20091020-vni/wav/a0525.wav
+        detected as -  Ara
+Ara-20091020-vni/wav/a0526.wav
+        detected as -  Ara
+argail-20090722-gau/wav/rb-17.wav
+        detected as -  argail
+argail-20090722-gau/wav/rb-18.wav
+        detected as -  argail
+argail-20090722-gau/wav/rb-19.wav
+        detected as -  argail
+argail-20090722-gau/wav/rb-20.wav
+        detected as -  argail
+argail-20090722-gau/wav/rb-21.wav
+        detected as -  argail
+ariyan-20120801-gra/wav/b0270.wav
+        detected as -  ariyan
+ariyan-20120801-gra/wav/b0271.wav
+        detected as -  ariyan
+ariyan-20120801-gra/wav/b0272.wav
+        detected as -  ariyan
+ariyan-20120801-gra/wav/b0273.wav
+        detected as -  ariyan
+ariyan-20120801-gra/wav/b0274.wav
+        detected as -  ariyan
+arjuan-20100820-acz/wav/b0222.wav
+        detected as -  arjuan
+arjuan-20100820-acz/wav/b0223.wav
+        detected as -  arjuan
+arjuan-20100820-acz/wav/b0224.wav
+        detected as -  arjuan
+arjuan-20100820-acz/wav/b0225.wav
+        detected as -  arjuan
+arjuan-20100820-acz/wav/b0226.wav
+        detected as -  arjuan
+Artem-20121123-ebd/wav/b0136.wav
+        detected as -  Artem
+Artem-20121123-ebd/wav/b0137.wav
+        detected as -  Artem
+Artem-20121123-ebd/wav/b0138.wav
+        detected as -  Artem
+Artem-20121123-ebd/wav/b0139.wav
+        detected as -  Artem
+Artem-20121123-ebd/wav/b0140.wav
+        detected as -  Artem
+arthur-20130509-yjj/wav/ar-06.wav
+        detected as -  arthur
+arthur-20130509-yjj/wav/rp-28.wav
+        detected as -  arthur
+arthur-20130509-yjj/wav/rp-29.wav
+        detected as -  arthur
+arthur-20130509-yjj/wav/rp-30.wav
+        detected as -  arthur
+arthur-20130509-yjj/wav/rp-31.wav
+        detected as -  arthur
+artk-20101225-kvd/wav/b0307.wav
+        detected as -  artk
+artk-20101225-kvd/wav/b0308.wav
+        detected as -  artk
+artk-20101225-kvd/wav/b0309.wav
+        detected as -  artk
+artk-20101225-kvd/wav/b0310.wav
+        detected as -  artk
+artk-20101225-kvd/wav/b0311.wav
+        detected as -  artk
+arun-20100928-usw/wav/b0176.wav
+        detected as -  arun
+arun-20100928-usw/wav/b0177.wav
+        detected as -  arun
+arun-20100928-usw/wav/b0178.wav
+        detected as -  arun
+arun-20100928-usw/wav/b0179.wav
+        detected as -  arun
+arun-20100928-usw/wav/b0180.wav
+        detected as -  arun
+arvala-20110103-nlb/wav/a0233.wav
+        detected as -  arvala
+arvala-20110103-nlb/wav/a0234.wav
+        detected as -  arvala
+arvala-20110103-nlb/wav/a0235.wav
+        detected as -  arvala
+arvala-20110103-nlb/wav/a0236.wav
+        detected as -  arvala
+arvala-20110103-nlb/wav/a0237.wav
+        detected as -  arvala
+asalkeld-20111226-ets/wav/a0152.wav
+        detected as -  asalkeld
+asalkeld-20111226-ets/wav/a0153.wav
+        detected as -  asalkeld
+asalkeld-20111226-ets/wav/a0154.wav
+        detected as -  asalkeld
+asalkeld-20111226-ets/wav/a0155.wav
+        detected as -  asalkeld
+asalkeld-20111226-ets/wav/a0156.wav
+        detected as -  asalkeld
+asladic-20100311-bfp/wav/b0138.wav
+        detected as -  asladic
+asladic-20100311-bfp/wav/b0139.wav
+        detected as -  asladic
+asladic-20100311-bfp/wav/b0140.wav
+        detected as -  asladic
+asladic-20100311-bfp/wav/b0141.wav
+        detected as -  asladic
+asladic-20100311-bfp/wav/b0142.wav
+        detected as -  asladic
+AslakKnutsen-20140314-bje/wav/a0422.wav
+        detected as -  AslakKnutsen
+AslakKnutsen-20140314-bje/wav/a0423.wav
+        detected as -  AslakKnutsen
+AslakKnutsen-20140314-bje/wav/a0424.wav
+        detected as -  AslakKnutsen
+AslakKnutsen-20140314-bje/wav/a0425.wav
+        detected as -  AslakKnutsen
+AslakKnutsen-20140314-bje/wav/a0426.wav
+        detected as -  AslakKnutsen
+asp-20091228-qtl/wav/a0582.wav
+        detected as -  asp
+asp-20091228-qtl/wav/a0583.wav
+        detected as -  asp
+asp-20091228-qtl/wav/a0584.wav
+        detected as -  asp
+asp-20091228-qtl/wav/a0585.wav
+        detected as -  asp
+asp-20091228-qtl/wav/a0586.wav
+        detected as -  asp
+AT-20130718-lws/wav/a0016.wav
+        detected as -  AT
+AT-20130718-lws/wav/a0017.wav
+        detected as -  AT
+AT-20130718-lws/wav/a0018.wav
+        detected as -  AT
+AT-20130718-lws/wav/a0019.wav
+        detected as -  AT
+AT-20130718-lws/wav/a0020.wav
+        detected as -  AT
+atamur-20090211-wdo/wav/a0544.wav
+        detected as -  atamur
+atamur-20090211-wdo/wav/a0545.wav
+        detected as -  atamur
+atamur-20090211-wdo/wav/a0546.wav
+        detected as -  atamur
+atamur-20090211-wdo/wav/a0547.wav
+        detected as -  atamur
+atamur-20090211-wdo/wav/a0548.wav
+        detected as -  atamur
+ataru80-20120624-hfe/wav/a0082.wav
+        detected as -  ataru80
+ataru80-20120624-hfe/wav/a0083.wav
+        detected as -  ataru80
+ataru80-20120624-hfe/wav/a0084.wav
+        detected as -  ataru80
+ataru80-20120624-hfe/wav/a0085.wav
+        detected as -  ataru80
+ataru80-20120624-hfe/wav/a0086.wav
+        detected as -  ataru80
+atterer-01202007-b/wav/vf21-06.wav
+        detected as -  atterer
+atterer-01202007-b/wav/vf21-07.wav
+        detected as -  atterer
+atterer-01202007-b/wav/vf21-08.wav
+        detected as -  atterer
+atterer-01202007-b/wav/vf21-09.wav
+        detected as -  atterer
+atterer-01202007-b/wav/vf21-10.wav
+        detected as -  atterer
+audioodyssey-20081109-rew/wav/a0430.wav
+        detected as -  audioodyssey
+audioodyssey-20081109-rew/wav/a0431.wav
+        detected as -  audioodyssey
+audioodyssey-20081109-rew/wav/a0432.wav
+        detected as -  audioodyssey
+audioodyssey-20081109-rew/wav/a0433.wav
+        detected as -  audioodyssey
+audioodyssey-20081109-rew/wav/a0434.wav
+        detected as -  audioodyssey
+avsa242-20071208/wav/cc-06.wav
+        detected as -  avsa242
+avsa242-20071208/wav/cc-07.wav
+        detected as -  avsa242
+avsa242-20071208/wav/cc-08.wav
+        detected as -  avsa242
+avsa242-20071208/wav/cc-09.wav
+        detected as -  avsa242
+avsa242-20071208/wav/cc-10.wav
+        detected as -  avsa242
+ax-20150219-yhd/wav/b0008.wav
+        detected as -  ax
+ax-20150219-yhd/wav/b0009.wav
+        detected as -  ax
+ax-20150219-yhd/wav/b0010.wav
+        detected as -  ax
+ax-20150219-yhd/wav/b0011.wav
+        detected as -  ax
+ax-20150219-yhd/wav/b0012.wav
+        detected as -  ax
+axllaruse-20140112-ced/wav/a0496.wav
+        detected as -  axllaruse
+axllaruse-20140112-ced/wav/a0497.wav
+        detected as -  axllaruse
+axllaruse-20140112-ced/wav/a0498.wav
+        detected as -  axllaruse
+axllaruse-20140112-ced/wav/a0499.wav
+        detected as -  axllaruse
+axllaruse-20140112-ced/wav/a0500.wav
+        detected as -  axllaruse
+azmisov-20140428-cyp/wav/a0008.wav
+        detected as -  azmisov
+azmisov-20140428-cyp/wav/a0009.wav
+        detected as -  Bareford
+azmisov-20140428-cyp/wav/a0010.wav
+        detected as -  azmisov
+azmisov-20140428-cyp/wav/a0011.wav
+        detected as -  azmisov
+azmisov-20140428-cyp/wav/a0012.wav
+        detected as -  azmisov
+B-20091220-vus/wav/b0250.wav
+        detected as -  B
+B-20091220-vus/wav/b0251.wav
+        detected as -  B
+B-20091220-vus/wav/b0252.wav
+        detected as -  B
+B-20091220-vus/wav/b0253.wav
+        detected as -  B
+B-20091220-vus/wav/b0254.wav
+        detected as -  B
+bachroxx-20080119-tuu/wav/b0112.wav
+        detected as -  bachroxx
+bachroxx-20080119-tuu/wav/b0113.wav
+        detected as -  bachroxx
+bachroxx-20080119-tuu/wav/b0114.wav
+        detected as -  bachroxx
+bachroxx-20080119-tuu/wav/b0115.wav
+        detected as -  bachroxx
+bachroxx-20080119-tuu/wav/b0116.wav
+        detected as -  bachroxx
+bae-20110617-vdq/wav/a0136.wav
+        detected as -  bae
+bae-20110617-vdq/wav/a0137.wav
+        detected as -  bae
+bae-20110617-vdq/wav/a0138.wav
+        detected as -  bae
+bae-20110617-vdq/wav/a0139.wav
+        detected as -  bae
+bae-20110617-vdq/wav/a0140.wav
+        detected as -  bae
+Bahoke-20130721-brs/wav/b0442.wav
+        detected as -  Bahoke
+Bahoke-20130721-brs/wav/b0443.wav
+        detected as -  Bahoke
+Bahoke-20130721-brs/wav/b0444.wav
+        detected as -  Bahoke
+Bahoke-20130721-brs/wav/b0445.wav
+        detected as -  Bahoke
+Bahoke-20130721-brs/wav/b0446.wav
+        detected as -  Bahoke
+Bareford-20101110-qkl/wav/a0017.wav
+        detected as -  Bareford
+Bareford-20101110-qkl/wav/a0018.wav
+        detected as -  Bareford
+Bareford-20101110-qkl/wav/a0019.wav
+        detected as -  Bareford
+Bareford-20101110-qkl/wav/a0020.wav
+        detected as -  Bareford
+Bareford-20101110-qkl/wav/a0021.wav
+        detected as -  Bareford
+bart-20090807-ufp/wav/b0426.wav
+        detected as -  bart
+bart-20090807-ufp/wav/b0427.wav
+        detected as -  bart
+bart-20090807-ufp/wav/b0428.wav
+        detected as -  bart
+bart-20090807-ufp/wav/b0429.wav
+        detected as -  bart
+bart-20090807-ufp/wav/b0430.wav
+        detected as -  bart
+Bassel-20120209-xky/wav/b0430.wav
+        detected as -  Bassel
+Bassel-20120209-xky/wav/b0431.wav
+        detected as -  Bassel
+Bassel-20120209-xky/wav/b0432.wav
+        detected as -  Bassel
+Bassel-20120209-xky/wav/b0433.wav
+        detected as -  Bassel
+Bassel-20120209-xky/wav/b0434.wav
+        detected as -  Bassel
+beady-20100219-xpq/wav/a0446.wav
+        detected as -  beady
+beady-20100219-xpq/wav/a0447.wav
+        detected as -  beady
+beady-20100219-xpq/wav/a0448.wav
+        detected as -  beady
+beady-20100219-xpq/wav/a0449.wav
+        detected as -  beady
+beady-20100219-xpq/wav/a0450.wav
+        detected as -  beady
+beez1717-20111017-yqm/wav/a0086.wav
+        detected as -  beez1717
+beez1717-20111017-yqm/wav/a0087.wav
+        detected as -  beez1717
+beez1717-20111017-yqm/wav/a0088.wav
+        detected as -  beez1717
+beez1717-20111017-yqm/wav/a0089.wav
+        detected as -  beez1717
+beez1717-20111017-yqm/wav/a0090.wav
+        detected as -  beez1717
+belmontguy-20110426-geu/wav/b0154.wav
+        detected as -  belmontguy
+belmontguy-20110426-geu/wav/b0155.wav
+        detected as -  belmontguy
+belmontguy-20110426-geu/wav/b0156.wav
+        detected as -  belmontguy
+belmontguy-20110426-geu/wav/b0157.wav
+        detected as -  belmontguy
+belmontguy-20110426-geu/wav/b0158.wav
+        detected as -  belmontguy
+(procvoz-hB1pilWy) ramon@ramon-desktop-ubuntu:~/Documents/PycharmProjects/procvoz$ 
