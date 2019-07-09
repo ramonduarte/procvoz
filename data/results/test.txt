@@ -1,0 +1,340 @@
+anthonyschaller-20071221-/wav/a0496.wav
+        detected as -  anthonyschaller
+anthonyschaller-20071221-/wav/a0497.wav
+        detected as -  anthonyschaller
+anthonyschaller-20071221-/wav/a0498.wav
+        detected as -  anthonyschaller
+anthonyschaller-20071221-/wav/a0499.wav
+        detected as -  anthonyschaller
+anthonyschaller-20071221-/wav/a0500.wav
+        detected as -  anthonyschaller
+Apple_Eater-20091026-yul/wav/a0057.wav
+        detected as -  Apple_Eater
+Apple_Eater-20091026-yul/wav/a0058.wav
+        detected as -  Apple_Eater
+Apple_Eater-20091026-yul/wav/a0059.wav
+        detected as -  Apple_Eater
+Apple_Eater-20091026-yul/wav/a0060.wav
+        detected as -  Apple_Eater
+Apple_Eater-20091026-yul/wav/a0061.wav
+        detected as -  Apple_Eater
+Ara-20091020-vni/wav/a0522.wav
+        detected as -  Ara
+Ara-20091020-vni/wav/a0523.wav
+        detected as -  Ara
+Ara-20091020-vni/wav/a0524.wav
+        detected as -  Ara
+Ara-20091020-vni/wav/a0525.wav
+        detected as -  Ara
+Ara-20091020-vni/wav/a0526.wav
+        detected as -  Ara
+argail-20090722-gau/wav/rb-17.wav
+        detected as -  argail
+argail-20090722-gau/wav/rb-18.wav
+        detected as -  argail
+argail-20090722-gau/wav/rb-19.wav
+        detected as -  argail
+argail-20090722-gau/wav/rb-20.wav
+        detected as -  argail
+argail-20090722-gau/wav/rb-21.wav
+        detected as -  argail
+ariyan-20120801-gra/wav/b0270.wav
+        detected as -  ariyan
+ariyan-20120801-gra/wav/b0271.wav
+        detected as -  ariyan
+ariyan-20120801-gra/wav/b0272.wav
+        detected as -  ariyan
+ariyan-20120801-gra/wav/b0273.wav
+        detected as -  ariyan
+ariyan-20120801-gra/wav/b0274.wav
+        detected as -  ariyan
+arjuan-20100820-acz/wav/b0222.wav
+        detected as -  arjuan
+arjuan-20100820-acz/wav/b0223.wav
+        detected as -  arjuan
+arjuan-20100820-acz/wav/b0224.wav
+        detected as -  arjuan
+arjuan-20100820-acz/wav/b0225.wav
+        detected as -  arjuan
+arjuan-20100820-acz/wav/b0226.wav
+        detected as -  arjuan
+Artem-20121123-ebd/wav/b0136.wav
+        detected as -  Artem
+Artem-20121123-ebd/wav/b0137.wav
+        detected as -  Artem
+Artem-20121123-ebd/wav/b0138.wav
+        detected as -  Artem
+Artem-20121123-ebd/wav/b0139.wav
+        detected as -  Artem
+Artem-20121123-ebd/wav/b0140.wav
+        detected as -  Artem
+arthur-20130509-yjj/wav/ar-06.wav
+        detected as -  arthur
+arthur-20130509-yjj/wav/rp-28.wav
+        detected as -  arthur
+arthur-20130509-yjj/wav/rp-29.wav
+        detected as -  arthur
+arthur-20130509-yjj/wav/rp-30.wav
+        detected as -  arthur
+arthur-20130509-yjj/wav/rp-31.wav
+        detected as -  arthur
+artk-20101225-kvd/wav/b0307.wav
+        detected as -  artk
+artk-20101225-kvd/wav/b0308.wav
+        detected as -  artk
+artk-20101225-kvd/wav/b0309.wav
+        detected as -  artk
+artk-20101225-kvd/wav/b0310.wav
+        detected as -  artk
+artk-20101225-kvd/wav/b0311.wav
+        detected as -  artk
+arun-20100928-usw/wav/b0176.wav
+        detected as -  arun
+arun-20100928-usw/wav/b0177.wav
+        detected as -  arun
+arun-20100928-usw/wav/b0178.wav
+        detected as -  arun
+arun-20100928-usw/wav/b0179.wav
+        detected as -  arun
+arun-20100928-usw/wav/b0180.wav
+        detected as -  arun
+arvala-20110103-nlb/wav/a0233.wav
+        detected as -  arvala
+arvala-20110103-nlb/wav/a0234.wav
+        detected as -  arvala
+arvala-20110103-nlb/wav/a0235.wav
+        detected as -  arvala
+arvala-20110103-nlb/wav/a0236.wav
+        detected as -  arvala
+arvala-20110103-nlb/wav/a0237.wav
+        detected as -  arvala
+asalkeld-20111226-ets/wav/a0152.wav
+        detected as -  asalkeld
+asalkeld-20111226-ets/wav/a0153.wav
+        detected as -  asalkeld
+asalkeld-20111226-ets/wav/a0154.wav
+        detected as -  asalkeld
+asalkeld-20111226-ets/wav/a0155.wav
+        detected as -  asalkeld
+asalkeld-20111226-ets/wav/a0156.wav
+        detected as -  asalkeld
+asladic-20100311-bfp/wav/b0138.wav
+        detected as -  asladic
+asladic-20100311-bfp/wav/b0139.wav
+        detected as -  asladic
+asladic-20100311-bfp/wav/b0140.wav
+        detected as -  asladic
+asladic-20100311-bfp/wav/b0141.wav
+        detected as -  asladic
+asladic-20100311-bfp/wav/b0142.wav
+        detected as -  asladic
+AslakKnutsen-20140314-bje/wav/a0422.wav
+        detected as -  AslakKnutsen
+AslakKnutsen-20140314-bje/wav/a0423.wav
+        detected as -  AslakKnutsen
+AslakKnutsen-20140314-bje/wav/a0424.wav
+        detected as -  AslakKnutsen
+AslakKnutsen-20140314-bje/wav/a0425.wav
+        detected as -  AslakKnutsen
+AslakKnutsen-20140314-bje/wav/a0426.wav
+        detected as -  AslakKnutsen
+asp-20091228-qtl/wav/a0582.wav
+        detected as -  asp
+asp-20091228-qtl/wav/a0583.wav
+        detected as -  asp
+asp-20091228-qtl/wav/a0584.wav
+        detected as -  asp
+asp-20091228-qtl/wav/a0585.wav
+        detected as -  asp
+asp-20091228-qtl/wav/a0586.wav
+        detected as -  asp
+AT-20130718-lws/wav/a0016.wav
+        detected as -  AT
+AT-20130718-lws/wav/a0017.wav
+        detected as -  AT
+AT-20130718-lws/wav/a0018.wav
+        detected as -  AT
+AT-20130718-lws/wav/a0019.wav
+        detected as -  AT
+AT-20130718-lws/wav/a0020.wav
+        detected as -  AT
+atamur-20090211-wdo/wav/a0544.wav
+        detected as -  atamur
+atamur-20090211-wdo/wav/a0545.wav
+        detected as -  atamur
+atamur-20090211-wdo/wav/a0546.wav
+        detected as -  atamur
+atamur-20090211-wdo/wav/a0547.wav
+        detected as -  atamur
+atamur-20090211-wdo/wav/a0548.wav
+        detected as -  atamur
+ataru80-20120624-hfe/wav/a0082.wav
+        detected as -  ataru80
+ataru80-20120624-hfe/wav/a0083.wav
+        detected as -  ataru80
+ataru80-20120624-hfe/wav/a0084.wav
+        detected as -  ataru80
+ataru80-20120624-hfe/wav/a0085.wav
+        detected as -  ataru80
+ataru80-20120624-hfe/wav/a0086.wav
+        detected as -  ataru80
+atterer-01202007-b/wav/vf21-06.wav
+        detected as -  atterer
+atterer-01202007-b/wav/vf21-07.wav
+        detected as -  atterer
+atterer-01202007-b/wav/vf21-08.wav
+        detected as -  atterer
+atterer-01202007-b/wav/vf21-09.wav
+        detected as -  atterer
+atterer-01202007-b/wav/vf21-10.wav
+        detected as -  atterer
+audioodyssey-20081109-rew/wav/a0430.wav
+        detected as -  audioodyssey
+audioodyssey-20081109-rew/wav/a0431.wav
+        detected as -  audioodyssey
+audioodyssey-20081109-rew/wav/a0432.wav
+        detected as -  audioodyssey
+audioodyssey-20081109-rew/wav/a0433.wav
+        detected as -  audioodyssey
+audioodyssey-20081109-rew/wav/a0434.wav
+        detected as -  audioodyssey
+avsa242-20071208/wav/cc-06.wav
+        detected as -  avsa242
+avsa242-20071208/wav/cc-07.wav
+        detected as -  avsa242
+avsa242-20071208/wav/cc-08.wav
+        detected as -  avsa242
+avsa242-20071208/wav/cc-09.wav
+        detected as -  avsa242
+avsa242-20071208/wav/cc-10.wav
+        detected as -  avsa242
+ax-20150219-yhd/wav/b0008.wav
+        detected as -  ax
+ax-20150219-yhd/wav/b0009.wav
+        detected as -  ax
+ax-20150219-yhd/wav/b0010.wav
+        detected as -  ax
+ax-20150219-yhd/wav/b0011.wav
+        detected as -  ax
+ax-20150219-yhd/wav/b0012.wav
+        detected as -  ax
+axllaruse-20140112-ced/wav/a0496.wav
+        detected as -  axllaruse
+axllaruse-20140112-ced/wav/a0497.wav
+        detected as -  axllaruse
+axllaruse-20140112-ced/wav/a0498.wav
+        detected as -  axllaruse
+axllaruse-20140112-ced/wav/a0499.wav
+        detected as -  axllaruse
+axllaruse-20140112-ced/wav/a0500.wav
+        detected as -  axllaruse
+azmisov-20140428-cyp/wav/a0008.wav
+        detected as -  azmisov
+azmisov-20140428-cyp/wav/a0009.wav
+        detected as -  Bareford
+azmisov-20140428-cyp/wav/a0010.wav
+        detected as -  azmisov
+azmisov-20140428-cyp/wav/a0011.wav
+        detected as -  azmisov
+azmisov-20140428-cyp/wav/a0012.wav
+        detected as -  azmisov
+B-20091220-vus/wav/b0250.wav
+        detected as -  B
+B-20091220-vus/wav/b0251.wav
+        detected as -  B
+B-20091220-vus/wav/b0252.wav
+        detected as -  B
+B-20091220-vus/wav/b0253.wav
+        detected as -  B
+B-20091220-vus/wav/b0254.wav
+        detected as -  B
+bachroxx-20080119-tuu/wav/b0112.wav
+        detected as -  bachroxx
+bachroxx-20080119-tuu/wav/b0113.wav
+        detected as -  bachroxx
+bachroxx-20080119-tuu/wav/b0114.wav
+        detected as -  bachroxx
+bachroxx-20080119-tuu/wav/b0115.wav
+        detected as -  bachroxx
+bachroxx-20080119-tuu/wav/b0116.wav
+        detected as -  bachroxx
+bae-20110617-vdq/wav/a0136.wav
+        detected as -  bae
+bae-20110617-vdq/wav/a0137.wav
+        detected as -  bae
+bae-20110617-vdq/wav/a0138.wav
+        detected as -  bae
+bae-20110617-vdq/wav/a0139.wav
+        detected as -  bae
+bae-20110617-vdq/wav/a0140.wav
+        detected as -  bae
+Bahoke-20130721-brs/wav/b0442.wav
+        detected as -  Bahoke
+Bahoke-20130721-brs/wav/b0443.wav
+        detected as -  Bahoke
+Bahoke-20130721-brs/wav/b0444.wav
+        detected as -  Bahoke
+Bahoke-20130721-brs/wav/b0445.wav
+        detected as -  Bahoke
+Bahoke-20130721-brs/wav/b0446.wav
+        detected as -  Bahoke
+Bareford-20101110-qkl/wav/a0017.wav
+        detected as -  Bareford
+Bareford-20101110-qkl/wav/a0018.wav
+        detected as -  Bareford
+Bareford-20101110-qkl/wav/a0019.wav
+        detected as -  Bareford
+Bareford-20101110-qkl/wav/a0020.wav
+        detected as -  Bareford
+Bareford-20101110-qkl/wav/a0021.wav
+        detected as -  Bareford
+bart-20090807-ufp/wav/b0426.wav
+        detected as -  bart
+bart-20090807-ufp/wav/b0427.wav
+        detected as -  bart
+bart-20090807-ufp/wav/b0428.wav
+        detected as -  bart
+bart-20090807-ufp/wav/b0429.wav
+        detected as -  bart
+bart-20090807-ufp/wav/b0430.wav
+        detected as -  bart
+Bassel-20120209-xky/wav/b0430.wav
+        detected as -  Bassel
+Bassel-20120209-xky/wav/b0431.wav
+        detected as -  Bassel
+Bassel-20120209-xky/wav/b0432.wav
+        detected as -  Bassel
+Bassel-20120209-xky/wav/b0433.wav
+        detected as -  Bassel
+Bassel-20120209-xky/wav/b0434.wav
+        detected as -  Bassel
+beady-20100219-xpq/wav/a0446.wav
+        detected as -  beady
+beady-20100219-xpq/wav/a0447.wav
+        detected as -  beady
+beady-20100219-xpq/wav/a0448.wav
+        detected as -  beady
+beady-20100219-xpq/wav/a0449.wav
+        detected as -  beady
+beady-20100219-xpq/wav/a0450.wav
+        detected as -  beady
+beez1717-20111017-yqm/wav/a0086.wav
+        detected as -  beez1717
+beez1717-20111017-yqm/wav/a0087.wav
+        detected as -  beez1717
+beez1717-20111017-yqm/wav/a0088.wav
+        detected as -  beez1717
+beez1717-20111017-yqm/wav/a0089.wav
+        detected as -  beez1717
+beez1717-20111017-yqm/wav/a0090.wav
+        detected as -  beez1717
+belmontguy-20110426-geu/wav/b0154.wav
+        detected as -  belmontguy
+belmontguy-20110426-geu/wav/b0155.wav
+        detected as -  belmontguy
+belmontguy-20110426-geu/wav/b0156.wav
+        detected as -  belmontguy
+belmontguy-20110426-geu/wav/b0157.wav
+        detected as -  belmontguy
+belmontguy-20110426-geu/wav/b0158.wav
+        detected as -  belmontguy

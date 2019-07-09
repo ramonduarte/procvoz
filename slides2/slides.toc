@@ -1,0 +1,7 @@
+\babel@toc {brazil}{}
+\babel@toc {brazil}{}
+\beamer@sectionintoc {1}{Arquitetura}{3}{0}{1}
+\beamer@sectionintoc {2}{Dados de entrada}{4}{0}{2}
+\beamer@sectionintoc {3}{Pr\IeC {\'e}-processamento}{5}{0}{3}
+\beamer@sectionintoc {4}{Treinamento}{6}{0}{4}
+\beamer@sectionintoc {5}{Resultados}{7}{0}{5}

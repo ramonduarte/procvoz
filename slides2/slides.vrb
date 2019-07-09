@@ -1,0 +1,14 @@
+\frametitle{Módulos}
+
+    Existem várias ferramentas que calculam MFCCs. Optamos pelo \texttt{python\_speech\_features}:
+
+    \bigskip
+    \begin{python}
+import python_speech_features as mfc
+from sklearn import preprocessing
+def mfcc(sinal, taxa=16000, janela=0.03, dist_janelas=0.01):
+    parametros = mfc.mfc(sinal, taxa, janela, dist_janelas)
+    parametros = preprocessing.scale(parametros)
+    return parametros
+    \end{python}
+
