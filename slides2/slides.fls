@@ -338,6 +338,7 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmssi10.tfm
 INPUT /home/ramon/Documents/PycharmProjects/procvoz/slides2/Figure_7.png
 INPUT /home/ramon/Documents/PycharmProjects/procvoz/slides2/Figure_7.png
 INPUT /home/ramon/Documents/PycharmProjects/procvoz/slides2/Figure_7.png
@@ -350,6 +351,7 @@ INPUT /home/ramon/Documents/PycharmProjects/procvoz/slides2/Figure_2.png
 INPUT /home/ramon/Documents/PycharmProjects/procvoz/slides2/Figure_3.png
 INPUT /home/ramon/Documents/PycharmProjects/procvoz/slides2/Figure_3.png
 INPUT /home/ramon/Documents/PycharmProjects/procvoz/slides2/Figure_3.png
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmssi12.tfm
 INPUT /home/ramon/Documents/PycharmProjects/procvoz/slides2/Figure_4.png
 INPUT /home/ramon/Documents/PycharmProjects/procvoz/slides2/Figure_4.png
 INPUT /home/ramon/Documents/PycharmProjects/procvoz/slides2/Figure_4.png
@@ -368,6 +370,8 @@ INPUT /home/ramon/Documents/PycharmProjects/procvoz/slides2/slides.out
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb

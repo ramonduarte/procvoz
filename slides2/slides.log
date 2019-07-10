@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.12)  9 JUL 2019 03:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.12)  9 JUL 2019 23:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1123,7 +1123,7 @@ Overfull \hbox (32.48032pt too wide) has occurred while \output is active
 [5
 
 ]
-<Figure_7.png, id=196, 441.65pt x 126.4725pt>
+<Figure_7.png, id=197, 441.65pt x 126.4725pt>
 File: Figure_7.png Graphic file (type png)
 <use Figure_7.png>
 Package pdftex.def Info: Figure_7.png  used on input line 200.
@@ -1136,7 +1136,7 @@ Overfull \hbox (32.48032pt too wide) has occurred while \output is active
 [6
 
  </home/ramon/Documents/PycharmProjects/procvoz/slides2/Figure_7.png>]
-<Figure_1.png, id=224, 433.62pt x 289.08pt>
+<Figure_1.png, id=225, 433.62pt x 289.08pt>
 File: Figure_1.png Graphic file (type png)
 <use Figure_1.png>
 Package pdftex.def Info: Figure_1.png  used on input line 215.
@@ -1149,7 +1149,7 @@ Overfull \hbox (32.48032pt too wide) has occurred while \output is active
 [7
 
  </home/ramon/Documents/PycharmProjects/procvoz/slides2/Figure_1.png>]
-<Figure_2.png, id=255, 433.62pt x 289.08pt>
+<Figure_2.png, id=256, 433.62pt x 289.08pt>
 File: Figure_2.png Graphic file (type png)
 <use Figure_2.png>
 Package pdftex.def Info: Figure_2.png  used on input line 226.
@@ -1162,7 +1162,7 @@ Overfull \hbox (32.48032pt too wide) has occurred while \output is active
 [8
 
  </home/ramon/Documents/PycharmProjects/procvoz/slides2/Figure_2.png>]
-<Figure_3.png, id=284, 433.62pt x 289.08pt>
+<Figure_3.png, id=285, 433.62pt x 289.08pt>
 File: Figure_3.png Graphic file (type png)
 <use Figure_3.png>
 Package pdftex.def Info: Figure_3.png  used on input line 237.
@@ -1175,7 +1175,7 @@ Overfull \hbox (32.48032pt too wide) has occurred while \output is active
 [9
 
  </home/ramon/Documents/PycharmProjects/procvoz/slides2/Figure_3.png>]
-<Figure_4.png, id=313, 433.62pt x 289.08pt>
+<Figure_4.png, id=315, 433.62pt x 289.08pt>
 File: Figure_4.png Graphic file (type png)
 <use Figure_4.png>
 Package pdftex.def Info: Figure_4.png  used on input line 247.
@@ -1188,11 +1188,11 @@ Overfull \hbox (32.48032pt too wide) has occurred while \output is active
 [10
 
  </home/ramon/Documents/PycharmProjects/procvoz/slides2/Figure_4.png>]
-<Figure_5.png, id=342, 433.62pt x 289.08pt>
+<Figure_5.png, id=344, 454.69875pt x 262.9825pt>
 File: Figure_5.png Graphic file (type png)
 <use Figure_5.png>
 Package pdftex.def Info: Figure_5.png  used on input line 257.
-(pdftex.def)             Requested size: 287.99638pt x 192.0pt.
+(pdftex.def)             Requested size: 331.98282pt x 192.0pt.
 
 Overfull \hbox (32.48032pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
@@ -1201,10 +1201,10 @@ Overfull \hbox (32.48032pt too wide) has occurred while \output is active
 [11
 
  </home/ramon/Documents/PycharmProjects/procvoz/slides2/Figure_5.png>]
-<Figure_6.png, id=371, 246.9225pt x 290.08376pt>
+<Figure_6.png, id=373, 246.9225pt x 290.08376pt>
 File: Figure_6.png Graphic file (type png)
 <use Figure_6.png>
-Package pdftex.def Info: Figure_6.png  used on input line 267.
+Package pdftex.def Info: Figure_6.png  used on input line 266.
 (pdftex.def)             Requested size: 163.43277pt x 192.0pt.
 
 Overfull \hbox (32.48032pt too wide) has occurred while \output is active
@@ -1223,27 +1223,27 @@ Overfull \hbox (32.48032pt too wide) has occurred while \output is active
 \tf@snm=\write8
 \openout8 = `slides.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 314.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 314.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 268.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 268.
  (/home/ramon/Documents/PycharmProjects/procvoz/slides2/slides.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 314.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 314.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 268.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 268.
 Package rerunfilecheck Info: File `slides.out' has not changed.
 (rerunfilecheck)             Checksum: C1744B1449C6E0A35083B01A2B01C210;243.
  ) 
 Here is how much of TeX's memory you used:
- 19864 strings out of 492982
- 366210 string characters out of 6134895
- 454676 words of memory out of 5000000
- 22944 multiletter control sequences out of 15000+600000
- 10909 words of font info for 40 fonts, out of 8000000 for 9000
+ 19868 strings out of 492982
+ 366261 string characters out of 6134895
+ 454677 words of memory out of 5000000
+ 22946 multiletter control sequences out of 15000+600000
+ 11624 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,16n,61p,827b,645s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on /home/ramon/Documents/PycharmProjects/procvoz/slides2/slides.pdf (12 pages, 200154 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on /home/ramon/Documents/PycharmProjects/procvoz/slides2/slides.pdf (12 pages, 215686 bytes).
 PDF statistics:
- 428 PDF objects out of 1000 (max. 8388607)
- 376 compressed objects within 4 object streams
+ 436 PDF objects out of 1000 (max. 8388607)
+ 382 compressed objects within 4 object streams
  30 named destinations out of 1000 (max. 500000)
  153 words of extra memory for PDF output out of 10000 (max. 10000000)
 
